@@ -56,7 +56,7 @@ public class MapGenerator : MonoBehaviour
                 // DRAW COLOR MAP
 
 
-                // Create an array of colors, the for each pixel in the texture
+                // Create an array of colors
                 Color[] colorMap = new Color[mapWidth * mapHeight];
 
 
@@ -124,7 +124,6 @@ public class MapGenerator : MonoBehaviour
         {
             octaves = 0;
         }
-
     }
 
     [System.Serializable]
