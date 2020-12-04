@@ -1,2 +1,2 @@
 # CSharp_Archive
-***This is a collection of unrelated C# personal projects I've worked on***
+***This is a collection of C# mini projects I've worked on***
